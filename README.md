@@ -1,5 +1,6 @@
 <div align="center">  <img  width="446.5px" height="146.5px"  src="./assets/logo.png" /></div>
-
+## Overview
+SuiTears provides production-ready Sui Move smart contracts, enabling developers to quickly integrate airdrops, collections, and token utilities on the Sui blockchain.
 <h3 align="center"><em>Production ready modules for Sui Move developers</em></h3>
 
 ## Installation
